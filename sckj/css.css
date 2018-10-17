@@ -134,8 +134,8 @@ zoom: 1; }
 .news_tt { line-height: 30px; color: #333; padding-top: 20px; height: 60px; overflow: hidden; }
 .news2 a:hover .news_title, .news2 a:hover .news_tt, .news2 a:hover .news_time, .news2 a:hover .news_l { color: #fff; }
 /* 底部 */
-.footer_bj { background-color: #1f294b; margin-top: 50px; padding: 20px 0; }
-.footer { width: 1200px; margin: 0 auto; display: block; overflow: hidden; }
+.footer_bj {  margin-top: 50px; padding: 20px 0; }
+.footer { background-color: #1f294b;width: 1200px; margin: 0 auto; display: block; overflow: hidden; }
 .link h2 { width: 80px; float: left; font-size: 14px; color: #cccccc; font-weight: bold; }
 .link .link_m { float: left; width: 1120px; }
 .link .link_m a { font-size: 14px; color: #cccccc; line-height: 24px; padding-right: 20px; }
